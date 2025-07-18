@@ -1,10 +1,10 @@
 {
-  "name": "Stevens NFT #0",
+  "name": "Stevens NFT #30",
   "description": "Just NFTs",
-  "image": "ipfs://bafybeids5lhgdcuedcbenyjvdbc4hpxu2k3sl46pe3xwsvrzwzb565u7ci/0.png",
-  "dna": "42e50568c48fded0e8b396d028513d1c2ca6b4be",
-  "edition": 0,
-  "date": 1752720253774,
+  "image": "ipfs://bafybeids5lhgdcuedcbenyjvdbc4hpxu2k3sl46pe3xwsvrzwzb565u7ci/30.png",
+  "dna": "ec43ff03511a0095ba7a3ce3cb164caf10ea88dd",
+  "edition": 30,
+  "date": 1752720249141,
   "attributes": [
     {
       "trait_type": "Background",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "face3"
+      "value": "face6"
     }
   ],
   "compiler": "HashLips Art Engine"

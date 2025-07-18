@@ -1,14 +1,14 @@
 {
-  "name": "Stevens NFT #0",
+  "name": "Stevens NFT #35",
   "description": "Just NFTs",
-  "image": "ipfs://bafybeids5lhgdcuedcbenyjvdbc4hpxu2k3sl46pe3xwsvrzwzb565u7ci/0.png",
-  "dna": "42e50568c48fded0e8b396d028513d1c2ca6b4be",
-  "edition": 0,
-  "date": 1752720253774,
+  "image": "ipfs://bafybeids5lhgdcuedcbenyjvdbc4hpxu2k3sl46pe3xwsvrzwzb565u7ci/35.png",
+  "dna": "53a5f2bda4e67ccc45f541920aa6d33441d8e863",
+  "edition": 35,
+  "date": 1752720249954,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "background4"
+      "value": "background5"
     },
     {
       "trait_type": "Body",

@@ -1,0 +1,23 @@
+{
+  "name": "Stevens NFT #26",
+  "description": "Just NFTs",
+  "image": "ipfs://bafybeids5lhgdcuedcbenyjvdbc4hpxu2k3sl46pe3xwsvrzwzb565u7ci/26.png",
+  "dna": "e632949993c7013d4263e6857a40bf5ae633f25c",
+  "edition": 26,
+  "date": 1752720248578,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "background3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "body1"
+    },
+    {
+      "trait_type": "Face",
+      "value": "face3"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
